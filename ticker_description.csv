@@ -1,0 +1,5 @@
+﻿Header,Description
+Name,The name of the company.
+ID,A unique numeric ID for the company.
+Ticker,The ticker symbol for the company's shares on Exchange.
+Exchange,The exchange on which the company's shares are traded.

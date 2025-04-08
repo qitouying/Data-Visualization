@@ -1,0 +1,57 @@
+﻿Variable Name,Description
+Name,The canonical name of the company.
+ID,A unique numeric ID for the company.
+Country,The country where the company's headquarters is located.
+Website,The company's homepage.
+Groups,Thematic groups that include the company.
+Region,"The geographic region in which the company's headquarters is located (e.g., Asia, North America)."
+Stage,The company's stage of development.
+Sector,"The company's ""Primary Business Sector"" (corresponding to ""Business Sector"" in the Thomson Reuters Business Classification) according to permid.org."
+Description,A short description of the company.
+AI_Publications,The total number of AI research publications that the company released publicly over the prior 10 years. 
+AI_Growth,"Recent growth in the company's AI research publications, defined as the average percentage increase per year over the past three years of complete data. "
+Percentage,The percentage of the company's total research publications over the past ten years (Publications: 10-year total publications) that were AI publications (Publications: AI publications).
+Conference_Publication,The number of research publications by authors from the company that were accepted to top AI conferences over the past ten years.  >>
+Citations,The number of citations to AI research publications released by the company over the prior 10 years. 
+CV_publications,The total number of computer vision research publications that the company released publicly over the prior 10 years. 
+NLP_publications,The total number of natural language processing research publications that the company released publicly over the prior 10 years. 
+Robotics_publications,The total number of robotics research publications that the company released publicly over the prior 10 years. 
+Total_Publications,The total number of research publications (on any subject) the company released publicly over the prior 10 years. 
+AI patents,The number of AI-related patents the company filed over the past 10 years. 
+Patents_Growth,"Recent growth in the company's AI patent filings, defined as the average percentage increase per year over the past three years of complete data. (Patent data has a significant lag; the past three years of complete patent data typically equates to between three and six years behind the present.) "
+Patent_Percentage,The percentage of the company's total filed patents over the past ten years (Patents: 10-year total patents) that were AI-related (Patents: AI patents). 
+Granted_AI_patents,The number of AI-related patents granted to the company over the past 10 years. 
+Total_patents,The number of patents (on any topic) the company filed over the past 10 years. 
+Agriculture,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Banking_n_Finance,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Business,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Computing_In_Government,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Document_Management_n_Publishing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Education,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Energy,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Entertainment,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Industry_n_Manufacturing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Life_Sciences,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Military,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Nanotechnology,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Networking,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Personal_Devices_N_Computing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Physical_Sciences_n_Engineering,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Security,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Semiconductors,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Telecommunications,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Transportation,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed use case. 
+Analytics_n_Algorithms,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Computer_Vision,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Control,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Distributed_AI,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Knowledge_Representation,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Language_Processing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Measuring_n_Testing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Planning_n_Scheduling,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Robotics,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Speech_Processing,The number of AI-related patents the company filed over the past 10 years that were relevant to the listed application. 
+Workforce_AI_workers,The number of known AI workers employed by the company as of the most recent data update.
+Workforce_Tech_Team_Workers,The number of known Tech Team workers employed by the company as of the most recent data update.
+City,The city where the company's headquarters is located.
+State/province,The state or province where the company's headquarters is located.
